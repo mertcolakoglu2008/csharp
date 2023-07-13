@@ -1,0 +1,8 @@
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe.config
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.exe
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\hesapMakinesi\hesapMakinesi\bin\Debug\hesapMakinesi.pdb
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.exe
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\hesapMakinesi\hesapMakinesi\obj\Debug\hesapMakinesi.pdb

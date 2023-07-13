@@ -1,0 +1,8 @@
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\tcKimlikNo\tcKimlikNo\bin\Debug\tcKimlikNo.exe.config
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\tcKimlikNo\tcKimlikNo\bin\Debug\tcKimlikNo.exe
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\tcKimlikNo\tcKimlikNo\bin\Debug\tcKimlikNo.pdb
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\tcKimlikNo\tcKimlikNo\obj\Debug\tcKimlikNo.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\tcKimlikNo\tcKimlikNo\obj\Debug\tcKimlikNo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\tcKimlikNo\tcKimlikNo\obj\Debug\tcKimlikNo.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\tcKimlikNo\tcKimlikNo\obj\Debug\tcKimlikNo.exe
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\tcKimlikNo\tcKimlikNo\obj\Debug\tcKimlikNo.pdb

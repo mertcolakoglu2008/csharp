@@ -1,0 +1,16 @@
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\bin\Debug\girisKayit.exe.config
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\bin\Debug\girisKayit.exe
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\bin\Debug\girisKayit.pdb
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.Form1.resources
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.Properties.Resources.resources
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.csproj.GenerateResource.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.exe
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.pdb
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.Form2.resources
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.Form3.resources
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.Form4.resources
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.Form5.resources
+C:\Users\ömer\OneDrive - Mehmet Rifat Evyap Mesleki ve Teknik Anadolu Lisesi\Masaüstü\girisKayit\girisKayit\obj\Debug\girisKayit.Form6.resources
